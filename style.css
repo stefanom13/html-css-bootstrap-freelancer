@@ -37,8 +37,19 @@ header {
   min-height: 150px;
 }
 
+.min-100 {
+  min-height: 100px;
+}
+
+.l__h {
+  line-height: 75px;
+}
+
 /* color  */
 
 .cont-bc-color {
   background-color: #1bbc9b;
+}
+.bc-color-footer {
+  background-color: #0c3e34;
 }
