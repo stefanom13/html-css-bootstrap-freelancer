@@ -29,6 +29,10 @@ header {
   min-height: 500px;
 }
 
+.cont-h-300 {
+  min-height: 300px;
+}
+
 .min-h-img {
   min-height: 150px;
 }
