@@ -1,0 +1,25 @@
+/* generals  */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  display: contents;
+}
+.debug [class*="col"] {
+  border: 1px solid red;
+}
+
+/* header  */
+
+header {
+  background-color: rgb(35, 35, 106);
+  min-height: 90px;
+}
+
+.l-h {
+  line-height: 45px;
+}
