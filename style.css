@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+ul {
+  list-style: none;
+}
+
 .debug [class*="col"] {
 }
 
@@ -77,4 +81,7 @@ img {
 }
 .bc-color-footer {
   background-color: #0c3e34;
+}
+.bc_c {
+  background-color: #161f1d;
 }
