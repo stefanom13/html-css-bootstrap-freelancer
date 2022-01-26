@@ -5,10 +5,7 @@
   margin: 0;
   padding: 0;
 }
-ul {
-  list-style: none;
-  display: contents;
-}
+
 .debug [class*="col"] {
 }
 
@@ -19,6 +16,9 @@ img {
 /* main  */
 
 .title-jumbo {
+  font-size: 45px;
+}
+.main-title {
   font-size: 55px;
 }
 
@@ -45,6 +45,12 @@ img {
 
 .bc-l_b {
   background-color: #1bbc9b;
+}
+.bt-t {
+  font-size: 18px;
+}
+.bt-t_color {
+  color: rgb(96, 103, 111);
 }
 
 /* main */
