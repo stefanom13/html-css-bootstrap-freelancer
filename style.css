@@ -10,8 +10,8 @@ ul {
   list-style: none;
 }
 
-.debug [class*="col"] {
-}
+/* .debug [class*="col"] {
+} */
 
 img {
   max-width: 100%;
